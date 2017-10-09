@@ -16,3 +16,4 @@
 #### 保存视频
 ./build/examples/openpose/openpose.bin --video examples/media/1.mp4 --write_video output/my/1.avi --write_keypoint_json output/my/
 ./build/examples/openpose/openpose.bin --image_dir examples/media/ --write_images output/image/ --write_keypoint_json output/image/
+./build/examples/openpose/openpose.bin --ip_camera http://iris.not.iac.es/axis-cgi/mjpg/video.cgi?resolution=320x240?x.mjpeg
