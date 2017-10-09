@@ -1,3 +1,4 @@
+http://blog.csdn.net/hanhailong726188/article/details/46738929 Github使用
 批量解压
 for i in `ls *.tar`
 do
