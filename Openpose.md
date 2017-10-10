@@ -40,7 +40,7 @@ include/openpose/pose/poseParameters.hpp里点位信息
   一共11个点
  '''
  <p align="center">
-    <img src="/YoungMagic/my_project01/blob/master/media/keypoints_pose.png?raw=true" alt="keypoints_pose.png">
+    <img src="https://raw.githubusercontent.com/YoungMagic/my_project01/master/media/keypoints_pose.png">
 </p>
 
  调整输出范围 flag keypoint_scale
