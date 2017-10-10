@@ -25,7 +25,7 @@
 
 ### 所需点位信息
 include/openpose/pose/poseParameters.hpp里点位信息
-'''  
+```
   {1,  "Neck"},
   {2,  "RShoulder"},
   {3,  "RElbow"},
@@ -38,11 +38,11 @@ include/openpose/pose/poseParameters.hpp里点位信息
   {11, "LHip"},
   {12, "LKnee"},
   一共11个点
- '''
+ ```
  <p align="center">
     <img src="https://raw.githubusercontent.com/YoungMagic/my_project01/master/media/keypoints_pose.png">
 </p>
 
  调整输出范围 flag keypoint_scale
- include/openpose/filestream/fileStream.hpp里的'''loadData'''和'''loadData'''来读取文件
+ include/openpose/filestream/fileStream.hpp里的 ```loadData ```和 ```loadData ```来读取文件
 
