@@ -40,8 +40,8 @@ include/openpose/pose/poseParameters.hpp里点位信息
   一共11个点
  '''
  <p align="center">
-    <img src="media/keypoints_face.png", width="480">
+    <img src="https://github.com/YoungMagic/my_project01/blob/master/media/keypoints_pose.png?raw=true", width="480">
 </p>
  调整输出范围 flag keypoint_scale
  include/openpose/filestream/fileStream.hpp里的‘’‘loadData’‘’和‘’‘loadData’‘’来读取文件
-https://github.com/YoungMagic/my_project01/blob/master/media/keypoints_pose.png?raw=true
+
