@@ -44,5 +44,5 @@ include/openpose/pose/poseParameters.hpp里点位信息
 </p>
 
  调整输出范围 flag keypoint_scale
- include/openpose/filestream/fileStream.hpp里的‘’‘loadData’‘’和‘’‘loadData’‘’来读取文件
+ include/openpose/filestream/fileStream.hpp里的'''loadData'''和'''loadData'''来读取文件
 
