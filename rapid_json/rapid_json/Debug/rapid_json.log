@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\youngmagic\documents\visual studio 2015\projects\rapid_json\rapid_json\source.cpp(81): warning C4018: '<': signed/unsigned mismatch
+c:\users\youngmagic\documents\visual studio 2015\projects\rapid_json\rapid_json\source.cpp(86): warning C4018: '<': signed/unsigned mismatch
+  rapid_json.vcxproj -> c:\users\youngmagic\documents\visual studio 2015\Projects\rapid_json\Debug\rapid_json.exe
+  rapid_json.vcxproj -> c:\users\youngmagic\documents\visual studio 2015\Projects\rapid_json\Debug\rapid_json.pdb (Full PDB)
