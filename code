@@ -31,7 +31,8 @@ foreach($file in $files)
     Add-content $file.pspath-Value $liner
    }
 }
-
+magnet:?xt=urn:btih:71FB2D9FAE752B3BBBD35256DD84FE53A69FC351&dn=%e3%80%90US%e7%a6%8f%e5%88%a9%e7%bd%91-usfuli.com%e3%80%91-170601-42%e5%a4%a7y%e6%91%84%e5%bd%b1038-047%e5%90%88%e9%9b%86%e6%89%93%e5%8c%85%e4%b8%8b%e8%bd%bd
+magnet:?xt=urn:btih:C5C02F5D699875C06321BE8B1C8A8AA85D1E8A22
 
 SSD训练步骤
 http://blog.csdn.net/zhang_shuai12/article/details/52346878
